@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Music Player</string>
+
+    <string name="category_forro">Forró</string>
+    <string name="category_blues">Blues</string>
+    <string name="category_jazz">Jazz</string>
+    <string name="category_bossa_nova">Bossa Nova</string>
+
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="next">Next</string>
+    <string name="previous">Prev.</string>
+    <string name="back">Back</string>
+</resources>
