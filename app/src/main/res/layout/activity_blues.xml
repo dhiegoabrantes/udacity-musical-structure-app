@@ -13,8 +13,15 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/category_blues"
+        android:text="Nessa activity iremos utilizar uma API propria para carregar as mp3. Para isso, iremos utilizar a biblioteca OkHttp para as requisições."
         android:gravity="center_horizontal"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/category_blues"
+        android:gravity="center_horizontal"
+        android:textSize="18dp"/>
 
     <include layout="@layout/music_controls" />
 
